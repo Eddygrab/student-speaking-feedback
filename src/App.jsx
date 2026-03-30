@@ -13,7 +13,7 @@ const DEFAULT_TARGETS = [
   "I just got back from school."
 ];
 
-const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwQJ8dzEyVJq_sPOpoG7uwP331y_C3Q_vl12fRCwLmAEAjEAClG7hd3XR1LH3ARH1EmiA/exec";
+const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxmDi8IYa-9WHIPOS2qTvuBfKOhPptLLE8ePDDT4fN9HInl8TePK7PlWgLQr8oX92GpBA/exec";
 
 function normalize(text) {
   return text
